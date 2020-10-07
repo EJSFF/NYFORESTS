@@ -29,6 +29,7 @@ The mean age of forest stands in New York is between 60-70 years old, with the m
 ### Harvesting irreversibly sets back the clock on sequestration and removes some of the largest carbon stocks.
 
 ![Alt Text](PROJECTION.jpg)
+*Based on data in [Buccholz et al. 2011)](https://forestindustries.eu/sites/default/files/userfiles/1file/report_biomass_2011.pdf)*
  
 Harvests, including the removal of biomass for bioenergy, reduce northeastern forests’ capacity to continue functioning as a carbon sink. Not only do these activities reduce the magnitude of the carbon sink, they lead to additional emissions from the harvest, burning, transportation and manufacture of wood products [(Hudiburg et al. 2011)](https://www.nature.com/articles/nclimate1264). Harvesting biomass sets the clock back on carbon sequestration and weakens one of our strongest defenses against increasing atmospheric greenhouse gases. 
 
